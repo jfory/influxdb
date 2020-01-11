@@ -3,6 +3,7 @@
 ### UI Improvements
 
 1. [16203](https://github.com/influxdata/influxdb/pull/16203): Move cloud navigation to top of page instead of within left side navigation
+1. [16504](https://github.com/influxdata/influxdb/pull/16504): Add backup and restore
 
 ## v2.0.0-beta.1 [2020-01-08]
 
