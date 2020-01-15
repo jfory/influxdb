@@ -12,5 +12,5 @@ type UUID struct{}
 
 // Generate creates a UUID v4 string
 func (i *UUID) Generate() (string, error) {
-	return uuid.NewV4().String(), nil
+	return uuid.Must(uuid.NewV4()).String(), nil
 }

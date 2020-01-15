@@ -74,7 +74,7 @@ require (
 	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
 	github.com/prometheus/common v0.6.0
 	github.com/prometheus/procfs v0.0.3 // indirect
-	github.com/satori/go.uuid v1.2.0
+	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
