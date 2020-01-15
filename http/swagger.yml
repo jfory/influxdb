@@ -8581,19 +8581,7 @@ components:
           type: integer
     GaugeViewProperties:
       type: object
-      required:
-        - type
-        - queries
-        - colors
-        - shape
-        - note
-        - showNoteWhenEmpty
-        - prefix
-        - tickPrefix
-        - suffix
-        - tickSuffix
-        - legend
-        - decimalPlaces
+      required: [type, queries, colors, shape, note, showNoteWhenEmpty, prefix, tickPrefix, suffix, tickSuffix, legend, decimalPlaces]
       properties:
         type:
           type: string
